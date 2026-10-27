@@ -1,0 +1,8 @@
+.filters-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.filters-row .search-bar { flex: 1; min-width: 220px; }
+.filters-row .search-bar input { width: 100%; }

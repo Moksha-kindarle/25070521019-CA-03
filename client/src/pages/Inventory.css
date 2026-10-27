@@ -1,0 +1,7 @@
+/* Inventory page uses global styles */
+.filters-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
